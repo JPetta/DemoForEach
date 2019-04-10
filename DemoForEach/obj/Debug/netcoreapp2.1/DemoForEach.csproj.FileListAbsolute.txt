@@ -1,0 +1,10 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\bin\Debug\netcoreapp2.1\DemoForEach.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\bin\Debug\netcoreapp2.1\DemoForEach.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\bin\Debug\netcoreapp2.1\DemoForEach.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\bin\Debug\netcoreapp2.1\DemoForEach.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\bin\Debug\netcoreapp2.1\DemoForEach.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\obj\Debug\netcoreapp2.1\DemoForEach.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\obj\Debug\netcoreapp2.1\DemoForEach.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\obj\Debug\netcoreapp2.1\DemoForEach.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\obj\Debug\netcoreapp2.1\DemoForEach.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_ForEach\DemoForEach\obj\Debug\netcoreapp2.1\DemoForEach.pdb
